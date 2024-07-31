@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TopSongsApp</string>
+    <string name="database_name">song_database</string>
+    <string name="msg_no_internet_connection">No internet connection</string>
+    <string name="label_top_songs">Top Songs</string>
+    <string name="btn_text_pause">Pause</string>
+    <string name="btn_text_play">Play</string>
+</resources>
